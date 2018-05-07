@@ -3,7 +3,6 @@
 
 // init project
 var express = require('express');
-var up = require('express-useragent');
 var app = express();
 
 // we've started you off with Express, 
